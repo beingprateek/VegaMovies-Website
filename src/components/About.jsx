@@ -2,7 +2,7 @@ import React, { useState, useEffect } from "react";
 import Footer from "./Footer";
 
 const About = () => {
-  document.title = "SCSDB | About";
+  document.title = "VegaMovies | About";
   
   // const navigate = useNavigate(); // Uncomment when using with React Router
   const [activeSection, setActiveSection] = useState("overview");

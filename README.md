@@ -1,17 +1,4 @@
-<<<<<<< HEAD
-# React + Vite
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
-
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
-
-## Expanding the ESLint configuration
-
-If you are developing a production application, we recommend using TypeScript and enable type-aware lint rules. Check out the [TS template](https://github.com/vitejs/vite/tree/main/packages/create-vite/template-react-ts) to integrate TypeScript and [`typescript-eslint`](https://typescript-eslint.io) in your project.
-=======
 # 🎬 Vegamovies Clone – React + Tailwind CSS
 A sleek and fast Vegamovies-inspired movie discovery app that lets users explore the latest movies and shows with a beautiful UI, smooth navigation, and real-time data fetched from the TMDB API.
 
@@ -61,6 +48,16 @@ Browse the latest **movies, trending shows, upcoming releases, TV shows, and pop
 ├── index.jsx
 └── styles.css
 
+## 📦 Installation & Setup
 
+Follow these steps to run the project locally:
 
->>>>>>> 325952bf6a0ddf7e1c43809d115d39e485c85baf
+```bash
+# 1. Go to project directory
+cd MovieApp-Vegamovies
+
+# 2. Install dependencies
+npm install
+
+# 3. Start development server
+npm run dev

@@ -9,7 +9,7 @@ import Dropdown from "./partials/Dropdown";
 import Topnav from "./partials/Topnav";
 
 const Tvshows = () => {
-  document.title = "SCSDB | TV Shows";
+  document.title = "VegaMovies | TV Shows";
   
   const navigate = useNavigate();
   const [category, setcategory] = useState("airing_today");

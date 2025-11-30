@@ -9,7 +9,7 @@ import Dropdown from "./partials/Dropdown";
 import Topnav from "./partials/Topnav";
 
 const People = () => {
-  document.title = "SCSDB | People";
+  document.title = "VegaMovies | People";
 
   const navigate = useNavigate();
   const [category, setcategory] = useState("popular");

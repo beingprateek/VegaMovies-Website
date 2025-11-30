@@ -8,7 +8,7 @@ import Loading from "./Loading";
 import InfiniteScroll from 'react-infinite-scroll-component';
 
 const Movies = () => {
-  document.title = "SCSDB | Movies";
+  document.title = "VegaMovies | Movies";
 
   const navigate = useNavigate();
   const [category, setcategory] = useState("now_playing");

@@ -8,7 +8,7 @@ import Loading from "./Loading";
 import InfiniteScroll from 'react-infinite-scroll-component';
 
 const Popular = () => {
-  document.title = "SCSDB | Popular";
+  document.title = "  VegaMovies | Popular";
   const navigate = useNavigate();
   const [category, setcategory] = useState("movie");
   const [popular, setpopular] = useState([]);

@@ -9,7 +9,7 @@ import Loading from "./Loading";
 import Footer from "./Footer";
 
 const Home = () => {
-  document.title = "SCSDB | Homepage";
+  document.title = "VegaMovies | Homepage";
 
   const [wallpaper, setwallpaper] = useState(null);
   const [trending, settrending] = useState(null);

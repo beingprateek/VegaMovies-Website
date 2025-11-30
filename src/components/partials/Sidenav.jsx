@@ -54,7 +54,7 @@ const Sidenav = ({ open, setOpen }) => {
       >
         <h1 className="text-2xl text-white font-bold mb-6 flex items-center">
           <i className="ri-tv-fill text-[#6556CD] mr-2 text-2xl md:text-3xl"></i>
-          <span>SCSDB.</span>
+          <span>VegaMovies</span>
         </h1>
         <nav className="flex flex-col text-zinc-400 text-xl gap-3">
           <h1 className="text-white font-semibold text-xl mt-10 mb-5">
